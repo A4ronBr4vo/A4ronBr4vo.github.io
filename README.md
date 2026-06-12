@@ -1,6 +1,3 @@
-theme: Reloj epigenetico
-title: Grupo03
-description: DAAAAAAAA
 <!DOCTYPE html>
 <html lang="es">
 <head>
